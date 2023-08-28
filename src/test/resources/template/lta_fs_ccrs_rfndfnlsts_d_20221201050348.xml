@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<CCRS>
+ <HH>
+  <RecordType>HH</RecordType>
+  <Source>FS</Source>
+  <Destination>CCRS</Destination>
+  <TimeStamp>20221201050348</TimeStamp>
+ </HH>
+ <BB>
+  <RecordType>BB</RecordType>
+  <PaymentDocumentDate>01122022</PaymentDocumentDate>
+  <Reference>5492337088</Reference>
+  <IdentificationNumber>NA</IdentificationNumber>
+  <ValueDate>01122022</ValueDate>
+  <status>C06</status>
+  <Remarks>Cheque Cleared</Remarks>
+</BB>
+  <TT>
+  <RecordType>TT</RecordType>
+  <TotalRecords>1</TotalRecords>
+ </TT>
+</CCRS>

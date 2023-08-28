@@ -1,0 +1,36 @@
+package Utility.others;
+
+public enum AdminMenu {
+    Counter,
+    Sale_item,
+    Add_Sale_Item,
+    Refund,
+    Add_Bulk_Sale_Item,
+    Checkpoint_User_Management_Portal,
+    Court_Fine_Counter,
+    Write_off,
+    Business_Flag,
+    Control_Central_Search,
+    Credit_And_Colleactions,
+    Customer_360_Search,
+    Customer_Information,
+    Dashboards,
+    Data_Synchronization,
+    Field_Order,
+    Financial,
+    Financial_Query,
+    Integration,
+    Market_transaction_management,
+    Meter,
+    Meter_Read,
+    Rates,
+    Sales_And_Marketing,
+    Self_Service,
+    To_Do,
+    Tools,
+    Umbrella_Agreement_Management,
+    Usage,
+    Workflow_and_Notification,
+    My_Preferences;
+}
+

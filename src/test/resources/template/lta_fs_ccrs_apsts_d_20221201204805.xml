@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<CCRS>
+ <HH>
+  <RecordType>HH</RecordType>
+  <Source>FS</Source>
+  <Destination>CCRS</Destination>
+  <TimeStamp>20221201050348</TimeStamp>
+ </HH>
+ <BB>
+  <RecordType>BB</RecordType>
+  <PaymentDocNumber>3601200134</PaymentDocNumber>
+  <FiscalYear>2019</FiscalYear>
+  <PaymentDocumentDate>01122022</PaymentDocumentDate>
+  <Reference>549233</Reference>
+  <LineItemText>ABC 684239941356</LineItemText>
+  <VendorNumber>1000006</VendorNumber>
+  <AlternatePayeeId/>
+  <AmountPaid>1155.14</AmountPaid>
+  <AmountPaidForeign/>
+  <PaymentCurrency>SGD</PaymentCurrency>
+  <status>C04</status>
+  <IdentificationNumber>NA</IdentificationNumber>
+ </BB>
+ <TT>
+  <RecordType>TT</RecordType>
+  <TotalRecords>1</TotalRecords>
+  <TotalValue>1155.14</TotalValue>
+ </TT>
+</CCRS>

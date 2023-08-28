@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<XMLFragment>
+	<headerRecord>
+		<creationDate>20230109</creationDate>
+		<creationTime>0522</creationTime>
+	</headerRecord>
+	<detailRecord>
+        <noticeNo>2023010903</noticeNo>
+        <vehicleNo>A3033030601</vehicleNo>
+        <foreignIndicator>N</foreignIndicator>
+        <identificationType>1</identificationType>
+        <identificationNo>S303303062</identificationNo>
+        <identificationName>SR3033030602</identificationName>
+        <offenderAddressPostalCode>680305</offenderAddressPostalCode>
+        <offenderAddressType>A</offenderAddressType>
+        <offenderAddressBlockHouseNumber>01</offenderAddressBlockHouseNumber>
+        <offenderAddressStreetName>01</offenderAddressStreetName>
+        <offenderAddressFloorNumber>01</offenderAddressFloorNumber>
+        <offenderAddressUnitNumber>01</offenderAddressUnitNumber>
+		<offenderAddressBuildingName>01</offenderAddressBuildingName>
+        <contactNo>88888888</contactNo>
+		<emailAddress>sandeep.ghosh1@wipro.com</emailAddress>
+        <noticeAmount>315.00</noticeAmount>
+        <noticeStatus>2</noticeStatus>
+        <displayFlag>P</displayFlag>
+        <issueDate>20230306</issueDate>
+        <expiryDate>20240303</expiryDate>
+        <offencePortalDescription>Test Scenario Offense 3 2023030603 App L</offencePortalDescription>
+        <offenceList>
+            <offenceDetail>
+                <offenceGroupCode>S_NO_CC_DIR</offenceGroupCode>
+                <offenceGroupCodeDescription>DID ENTER THE ERP ZONE WITHOUT PAYING THE ERP CHARGE AT THE ABOVEMENTIONED DATE, TIME AND PLACE</offenceGroupCodeDescription>
+                <offenceAmount>10.00</offenceAmount>
+                <revenueCode>ERP_532</revenueCode>
+            </offenceDetail>
+        </offenceList>
+    </detailRecord>
+	<trailerRecord>
+		<totalDetailRecord>1</totalDetailRecord>
+	</trailerRecord>
+</XMLFragment>

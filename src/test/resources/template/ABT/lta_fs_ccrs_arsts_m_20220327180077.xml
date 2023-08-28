@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<CCRS>
+ <HH>
+  <RecordType>HH</RecordType>
+  <Source>FS</Source>
+  <Destination>CCRS</Destination>
+  <TimeStamp>20230328133406</TimeStamp>
+ </HH>
+</CCRS>

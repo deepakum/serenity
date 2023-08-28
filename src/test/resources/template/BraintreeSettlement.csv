@@ -1,0 +1,2 @@
+TransactionId,OrderId,TransactionDateTime,TransactionAmount,Status,Type,PaytenderType,SettlementBatchId,GatewayRejectionReason,ProcessorAuthorizationCode,ProcessorResponseCode,ProcessorResponseText,ProcessorSettlementResponseCode,ProcessorSettlementResponseText
+fxpzx3bg,6732487853,30062021135538,100.00,SETTLED,SALE,credit_card,2021-05-21_LTA_CCRS_0w4a98fm,,DLVP7Y,147,Approved,,
